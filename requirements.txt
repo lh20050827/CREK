@@ -1,0 +1,18 @@
+# Core versions used by the validated environment.
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.24.2
+Pillow
+
+# CREK and bundled Dassl runtime dependencies.
+ftfy==6.1.1
+regex
+tqdm
+yacs
+gdown
+tabulate
+scipy
+scikit-learn
+tensorboard
+future
+wilds==1.2.2
